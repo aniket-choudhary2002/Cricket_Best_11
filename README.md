@@ -28,13 +28,9 @@ This project aims to analyze cricket data using web scraping techniques and data
 
 ## Getting Started
 To get started with the project, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/cricket-analytics-project.git`
+1. Clone the repository: `[https://github.com/aniket-choudhary2002/Cricket_Best_11]`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the main script to start the data analysis process: `python main.py`
-
-## Contributors
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
