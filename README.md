@@ -1,7 +1,7 @@
 # Cricket_Best_11
 
-#Key things to consider while designing your 
-#dashboard
+# Key things to consider while designing your 
+# dashboard
  # 1. Color Selection
  Primary and/or secondary colors 
 1. Choose from the corporate identity e.g., LOGO 
