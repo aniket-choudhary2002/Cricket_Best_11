@@ -1,6 +1,6 @@
 # Cricket_Best_11
 
-##Key things to consider while designing your ##
+#Key things to consider while designing your #
 #dashboard
  # 1. Color Selection
  Primary and/or secondary colors 
